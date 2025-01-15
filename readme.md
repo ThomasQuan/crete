@@ -48,17 +48,18 @@ This way it can look like this:
 Notice how the corners are align to each other perfectly, that is what I'm to achieve.
 ![Maze](./maze.png)
 
-Most of the logic that I use to create the maze can be credited to the author of [this article](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/maze-generation-using-prim-s-algorithm-r3994/). I mearly followed and applied the logic to my code with a pinche of custom logic (double blocks and event tracker)
+Most of the logic that I use to create the maze can be credited to the author of [this article](http://weblog.jamisbuck.org/under-the-hood/). I mearly followed and applied the logic to my code with a pinche of custom logic (double blocks and event tracker)
 
 
 ### Credits
 Shoutouts to these articles in helping me understand how maze generation works
 
-https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/
-https://www.algosome.com/articles/maze-generation-depth-first.html
-https://medium.com/swlh/maze-generation-with-depth-first-search-and-recursive-backtracking-869f5c4496ad
-https://professor-l.github.io/mazes/
-https://weblog.jamisbuck.org/2011/1/10/maze-generation-prim-s-algorithm
+[prims algo pseudocode](https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/)
+[depth first search](https://www.algosome.com/articles/maze-generation-depth-first.html)
+[backtracking](https://medium.com/swlh/maze-generation-with-depth-first-search-and-recursive-backtracking-869f5c4496ad)
+[maze research](https://professor-l.github.io/mazes/)
+[prims algo](https://weblog.jamisbuck.org/2011/1/10/maze-generation-prim-s-algorithm)
+
 
 
 
